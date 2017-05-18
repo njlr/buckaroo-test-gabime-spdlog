@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-gabime-spdlog",
+  "dependencies": {
+    "gabime/spdlog": "0.13.0",
+    "google/gtest": "1.8.0"
+  }
+}
